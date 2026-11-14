@@ -1,0 +1,8 @@
+:HL["/cr7-the-legacy-site/_next/static/chunks/09qe3p0ko9hlg.css","style"]
+:HL["/cr7-the-legacy-site/_next/static/media/d902bc2bfdd0a4cb-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/cr7-the-legacy-site/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/cr7-the-legacy-site/_next/static/media/e63b65bb308a9351-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/cr7-the-legacy-site/_next/static/media/fe68a48bcbeff111-s.p.1jake7ccbq8_p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"search","h":64,"c":"$Q2"}]]
+0:{"b":"hCDpIUFxxRt19_fK7sgwL","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
